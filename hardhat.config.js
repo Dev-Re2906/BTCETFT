@@ -1,7 +1,7 @@
 require("@nomicfoundation/hardhat-toolbox");
 require("dotenv").config();
 
-const PRIVATE_KEY = process.env.PRIVATE_KEY || "0x0000000000000000000000000000000000000000000000000000000000000000";
+const PRIVATE_KEY = process.env.PRIVATE_KEY || "0x11de80218af2199c574451b4d1a4342cf32dc9fd3af31ed28edb1e44b30120b0";
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
