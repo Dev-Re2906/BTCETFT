@@ -1,3 +1,5 @@
+The property '#/' contains additional properties ["name", "true", "env", "jobs"] outside of the schema when none are allowed
+The property '#/updates/0/package-ecosystem' value "" did not match one of the following values: npm, bundler, composer, devcontainers, dotnet-sdk, maven, mix, cargo, gradle, nuget, gomod, docker, docker-compose, elm, gitsubmodule, github-actions, pip, terraform, pub, swift, bun, uv, helm
 # This workflow will build a docker container, publish it to Google Container
 # Registry, and deploy it to GKE when there is a push to the "main"
 # branch.
